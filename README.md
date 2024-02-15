@@ -26,14 +26,6 @@ This project utilizes the 2020 ACS PUMS dataset and OEWS data to investigate the
 - [OEWS Data - Occupational Employment and Wage Estimates](https://data.wa.gov/Employment/Occupational-Employment-and-Wage-Estimates/icqj-j27g/about_data)
 - [ACS PUMS Data - American Community Survey Public Use Microdata Sample](https://data.census.gov/mdat/#/search?ds=ACSPUMS5Y2020&cv=SEX,DEAR,DEYE,WRK,ACCESSINET&rv=ucgid,SOCP&nv=SCHL&g=0400000US53)
 
-## Tidiness Issue 1: Column Headers
-
-Ensuring data tidiness is crucial for meaningful analysis. This project adheres to the principles of tidy data:
-
-1. **Each Variable Forms a Column**
-2. **Each Observation Forms a Row**
-3. **Each Type of Observational Unit Forms a Table**
-
 ## Analysis Results
 
 ### 1. Occupational Distribution
