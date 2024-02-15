@@ -1,6 +1,5 @@
 # Project-2-Data-Wrangling-Project-ACS-PUMS-dataset-and-OEWS-data
 
-**Analyzing Socio-Economic Factors in the U.S. Workforce: A Data-Driven Approach**
 
 ## Overview
 
